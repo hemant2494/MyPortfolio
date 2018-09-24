@@ -1,2 +1,0 @@
-# MyPortfolio
-UI/UX Developer
